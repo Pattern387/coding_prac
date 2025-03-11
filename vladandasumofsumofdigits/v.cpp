@@ -35,7 +35,7 @@ int main()
     {
         int num;
         cin >> num;
-        cout << l[num] << endl;
+        cout << l[num] << " " << endl;
     }
     return 0;
 }
